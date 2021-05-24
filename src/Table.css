@@ -1,0 +1,14 @@
+.table-container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color: white;
+    box-shadow: 2px 5px 20px #ffffff;
+    padding: 100px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    border-radius: 5px;
+    width: 1000px;
+    margin: 25px auto 50px;
+    margin-left: 10rem;
+}
